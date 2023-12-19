@@ -66,5 +66,3 @@ The CSV file format is designed to store the cricketer's directory data. Feel fr
 
 - Data persistence is maintained by writing back to a CSV file upon program exit.
 - For any issues or suggestions, please open an issue or submit a pull request.
-
-Happy cricket directory management!
